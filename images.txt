@@ -1,3 +1,4 @@
 electronuserland/builder:wine
 guacamole/guacamole
 postgres:15
+guacamole/guacd
