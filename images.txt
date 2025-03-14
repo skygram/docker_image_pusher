@@ -1,3 +1,4 @@
+asia-northeast3-docker.pkg.dev/moqi-417011/scinav/marker:0.5-gpu
 electronuserland/builder:wine
 guacamole/guacamole
 postgres:15
